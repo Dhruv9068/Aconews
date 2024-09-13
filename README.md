@@ -4,7 +4,7 @@
 
 Welcome to AcoNews, a modern and responsive news application that fetches the latest headlines from around the world using the [GNews API](https://gnews.io/). This project demonstrates how to build a news app with React, integrate with a news API, and deploy it using Firebase Hosting.
 
-![AcoNews Logo](https://via.placeholder.com/200x54.png?text=AcoNews) <!-- Replace with your actual logo image URL -->
+![AcoNews Logo]([https://via.placeholder.com/200x54.png?text=AcoNews](https://www.canva.com/design/DAGQkvrncsM/QcQTwwZd-oiEJshvrAeyCQ/view?utm_content=DAGQkvrncsM&utm_campaign=designshare&utm_medium=link&utm_source=editor)) <!-- Replace with your actual logo image URL -->
 
 ## Features
 
